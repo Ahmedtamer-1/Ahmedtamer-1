@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Ahmed%20Tamer&fontSize=52&fontColor=58a6ff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Startup%20Co-Founder%20%7C%20Full-Stack%20Builder&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ahmedtamer--1.github.io-1f6feb?style=for-the-badge&logoColor=white)](https://ahmedtamer-1.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Tamer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-tamer-52a489250/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Tamer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedtamer)
 [![Email](https://img.shields.io/badge/Email-ahmed.omar.aser@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.omar.aser@gmail.com)
 
 </div>
@@ -28,6 +28,8 @@ Beyond commerce, I architect multiplayer game systems, build cross-platform mobi
 <div align="center">
 
 ### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -36,6 +38,8 @@ Beyond commerce, I architect multiplayer game systems, build cross-platform mobi
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -43,20 +47,27 @@ Beyond commerce, I architect multiplayer game systems, build cross-platform mobi
 ### Frameworks & Platforms
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-### Tools & Infrastructure
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### Databases & Infrastructure
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![CLO3D](https://img.shields.io/badge/CLO3D-000000?style=flat-square&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![WSL](https://img.shields.io/badge/WSL2-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
@@ -78,10 +89,10 @@ Co-founded and built the full tech stack for a live fashion e-commerce brand. Fe
 </td>
 <td width="50%" valign="top">
 
-### 🎮 [Lmaxy — Multiplayer Game](https://github.com/Ahmedtamer-1)
-**C# · Unity · FishNet · Epic Online Services**
+### 🎮 Lmaxy — Multiplayer Game `Private`
+**C# · Unity · Mirror Networking · Epic Online Services**
 
-Full multiplayer game with server-authoritative health, enemy AI with navigation, real-time state synchronization, and matchmaking via EOS. Managed the full lifecycle from prototype to playable build.
+Full P2P multiplayer game with real-time state synchronization, enemy AI with pathfinding, and secure matchmaking via EOS. Managed the full development lifecycle from prototype to playable build.
 
 </td>
 </tr>
@@ -96,14 +107,22 @@ A full-featured banking app with account management, transaction flows, and a po
 </td>
 <td width="50%" valign="top">
 
-### 💬 [ChatCord — Real-Time Chat](https://github.com/Ahmedtamer-1/ChatCord)
-**TypeScript · Node.js · WebSockets**
+### 🌐 [Nexus](https://github.com/Ahmedtamer-1/Nexus)
+**JavaScript · Web**
 
-A real-time chat application with room-based messaging, user presence tracking, and live notifications — built with modern TypeScript.
+A web-based project showcasing modern JavaScript development patterns and interactive frontend experiences.
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 👗 Adorna — E-Commerce Venture `Pre-Launch`
+**WordPress · WooCommerce · Meta & TikTok Pixel**
+
+Technical Partner (20% equity). Leading all pre-launch infrastructure: storefront on WordPress/WooCommerce, full marketing pixel architecture for data-driven ad spend from day one.
+
+</td>
 <td width="50%" valign="top">
 
 ### 📱 [BluXT — Native Android App](https://github.com/Ahmedtamer-1/BluXT)
@@ -112,12 +131,22 @@ A real-time chat application with room-based messaging, user presence tracking, 
 A native Android application exploring Kotlin-first architecture alongside modern Android development patterns.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧵 [FashionStoreSystem](https://github.com/Ahmedtamer-1/FashionStoreSystem)
 **Java · OOP · Inventory Management**
 
 A complete fashion store management system covering inventory, product cataloguing, and order processing — built from real-world experience running Lume Egy.
+
+</td>
+<td width="50%" valign="top">
+
+### 💬 [ChatCord — Real-Time Chat](https://github.com/Ahmedtamer-1/ChatCord)
+**TypeScript · Node.js · WebSockets**
+
+A real-time chat application with room-based messaging, user presence tracking, and live notifications.
 
 </td>
 </tr>
@@ -175,8 +204,9 @@ Unix process tracking and task management utilities built for an Operating Syste
 |---|---|
 | **Full-Stack Development** | Frontend to backend to database — I ship complete features, not just components |
 | **Mobile Engineering** | Cross-platform (Flutter) + native (Kotlin) apps with clean architecture |
-| **Game Development** | Multiplayer systems with server-authoritative networking and real-time sync |
-| **E-Commerce & Growth** | Built & scaled a live storefront — pixel infrastructure, conversion optimization, fulfillment |
+| **Game Development** | Multiplayer systems with Mirror Networking, EOS matchmaking, and real-time sync |
+| **E-Commerce & Growth** | Built & scaled two live storefronts — Shopify, WordPress, pixel infra, media buying |
+| **3D & Design** | Blender, CLO3D, Figma — from wireframes to 3D product mockups |
 | **Systems Programming** | Unix internals, process management, shell scripting |
 | **Startup Mindset** | Co-founded a revenue-generating business while still in university |
 
@@ -195,7 +225,7 @@ I'm always open to interesting projects, collaborations, internship opportunitie
 <div align="center">
 
 [![Email](https://img.shields.io/badge/📧_Email_Me-ahmed.omar.aser@gmail.com-EA4335?style=for-the-badge)](mailto:ahmed.omar.aser@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ahmed-tamer-52a489250/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ahmedtamer)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-1f6feb?style=for-the-badge)](https://ahmedtamer-1.github.io)
 
 </div>
