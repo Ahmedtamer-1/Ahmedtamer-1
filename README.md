@@ -20,7 +20,6 @@ Technical Partner at **Adorna** (20% equity) — leading all pre-launch infrastr
 Beyond commerce I build multiplayer game systems, cross-platform mobile apps, full-stack web platforms, and systems-level tooling.
 
 <div align="center">
-<img src="./assets/quote.svg" width="70%"/>
 </div>
 
 ---
