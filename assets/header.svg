@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" width="100%">
+  <defs>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <filter id="blurIn1" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="15">
+        <animate attributeName="stdDeviation" from="15" to="0" dur="2s" fill="freeze"/>
+      </feGaussianBlur>
+    </filter>
+    <filter id="blurIn2" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="10">
+        <animate attributeName="stdDeviation" from="10" to="0" dur="1.8s" begin="0.6s" fill="freeze"/>
+      </feGaussianBlur>
+    </filter>
+    <filter id="blurIn3" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8">
+        <animate attributeName="stdDeviation" from="8" to="0" dur="1.5s" begin="1.2s" fill="freeze"/>
+      </feGaussianBlur>
+    </filter>
+    <linearGradient id="shimmer" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0" stop-color="white" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="white" stop-opacity="0"/>
+      <stop offset="0.42" stop-color="#c8dcff" stop-opacity="0.08"/>
+      <stop offset="0.46" stop-color="white" stop-opacity="0.25"/>
+      <stop offset="0.48" stop-color="#aac4ff" stop-opacity="0.06"/>
+      <stop offset="0.52" stop-color="white" stop-opacity="0.3"/>
+      <stop offset="0.56" stop-color="#c8dcff" stop-opacity="0.1"/>
+      <stop offset="0.6" stop-color="white" stop-opacity="0"/>
+      <stop offset="1" stop-color="white" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glassFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="white" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0.01"/>
+    </linearGradient>
+    <linearGradient id="glassBorder" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="white" stop-opacity="0.12"/>
+      <stop offset="50%" stop-color="white" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0.08"/>
+    </linearGradient>
+    <clipPath id="nameClip">
+      <text x="600" y="175" text-anchor="middle" font-size="72" font-weight="800"
+            font-family="'Segoe UI',system-ui,-apple-system,sans-serif" letter-spacing="10">AHMED TAMER</text>
+    </clipPath>
+  </defs>
+
+  <!-- Deep background -->
+  <rect width="1200" height="350" fill="#08080d"/>
+
+  <!-- Parallax slow layer: background particles -->
+  <g opacity="0.12">
+    <circle cx="95" cy="65" r="1.2" fill="white"><animate attributeName="cy" values="65;58;65" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="250" cy="290" r="0.8" fill="white"><animate attributeName="cy" values="290;283;290" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="410" cy="40" r="1" fill="white"><animate attributeName="cy" values="40;33;40" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="310" r="0.7" fill="white"><animate attributeName="cy" values="310;304;310" dur="12s" repeatCount="indefinite"/></circle>
+    <circle cx="730" cy="55" r="1.1" fill="white"><animate attributeName="cy" values="55;48;55" dur="8s" repeatCount="indefinite"/></circle>
+    <circle cx="880" cy="280" r="0.9" fill="white"><animate attributeName="cy" values="280;273;280" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="1050" cy="75" r="1" fill="white"><animate attributeName="cy" values="75;68;75" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="1140" cy="200" r="0.6" fill="white"><animate attributeName="cy" values="200;194;200" dur="11s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="180" r="0.5" fill="white"><animate attributeName="cy" values="180;174;180" dur="13s" repeatCount="indefinite"/></circle>
+    <circle cx="670" cy="140" r="0.8" fill="white"><animate attributeName="cy" values="140;134;140" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="980" cy="160" r="0.7" fill="white"><animate attributeName="cy" values="160;153;160" dur="10s" repeatCount="indefinite"/></circle>
+    <circle cx="340" cy="220" r="0.6" fill="white"><animate attributeName="cy" values="220;214;220" dur="12s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Parallax medium layer: subtle grid lines -->
+  <g opacity="0.03">
+    <line x1="0" y1="100" x2="1200" y2="100" stroke="white" stroke-width="0.5">
+      <animate attributeName="y1" values="100;96;100" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="100;96;100" dur="6s" repeatCount="indefinite"/>
+    </line>
+    <line x1="0" y1="250" x2="1200" y2="250" stroke="white" stroke-width="0.5">
+      <animate attributeName="y1" values="250;246;250" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="246;250;246" dur="7s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- Frosted glass panel -->
+  <rect x="30" y="20" width="1140" height="310" rx="20" fill="url(#glassFill)" stroke="url(#glassBorder)" stroke-width="1" filter="url(#blurIn3)">
+    <animate attributeName="opacity" from="0" to="1" dur="1.5s" begin="0.5s" fill="freeze"/>
+  </rect>
+
+  <!-- Name glow layer (behind) -->
+  <text x="600" y="175" text-anchor="middle" font-size="72" font-weight="800"
+        font-family="'Segoe UI',system-ui,-apple-system,sans-serif" letter-spacing="10"
+        fill="white" opacity="0.15" filter="url(#glow)">
+    AHMED TAMER
+    <animate attributeName="opacity" from="0" to="0.15" dur="2.5s" fill="freeze"/>
+  </text>
+
+  <!-- Name main text with blur-in -->
+  <text x="600" y="175" text-anchor="middle" font-size="72" font-weight="800"
+        font-family="'Segoe UI',system-ui,-apple-system,sans-serif" letter-spacing="10"
+        fill="#e6edf3" filter="url(#blurIn1)">
+    AHMED TAMER
+  </text>
+
+  <!-- Fractal shimmer overlay clipped to text -->
+  <g clip-path="url(#nameClip)">
+    <rect x="-1200" y="130" width="1200" height="80" fill="url(#shimmer)">
+      <animateTransform attributeName="transform" type="translate" from="-600,0" to="2400,0" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Subtitle with delayed blur-in -->
+  <text x="600" y="230" text-anchor="middle" font-size="15" font-weight="400"
+        font-family="'Segoe UI',system-ui,-apple-system,sans-serif" letter-spacing="5"
+        fill="#6e7681" filter="url(#blurIn2)" opacity="0">
+    SOFTWARE ENGINEER · STARTUP CO-FOUNDER · FULL-STACK BUILDER
+    <animate attributeName="opacity" from="0" to="1" dur="1.5s" begin="0.6s" fill="freeze"/>
+  </text>
+
+  <!-- Bottom decorative line with glow-in -->
+  <line x1="350" y1="270" x2="850" y2="270" stroke="white" stroke-opacity="0.08" stroke-width="1" filter="url(#blurIn3)">
+    <animate attributeName="stroke-opacity" from="0" to="0.08" dur="1s" begin="1.5s" fill="freeze"/>
+  </line>
+
+  <!-- Contact badges line -->
+  <g filter="url(#blurIn3)" opacity="0">
+    <animate attributeName="opacity" from="0" to="0.5" dur="1.5s" begin="1.5s" fill="freeze"/>
+    <text x="600" y="305" text-anchor="middle" font-size="11" font-weight="400"
+          font-family="'Segoe UI',system-ui,-apple-system,sans-serif" letter-spacing="3" fill="#484f58">
+      PORTFOLIO · LINKEDIN · GITHUB
+    </text>
+  </g>
+</svg>

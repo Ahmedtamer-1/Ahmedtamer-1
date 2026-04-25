@@ -1,38 +1,14 @@
-```
- ┌─────────────────────────────────────────────────────────────────┐
- │                                                                 │
- │     █████╗ ██╗  ██╗███╗   ███╗███████╗██████╗                   │
- │    ██╔══██╗██║  ██║████╗ ████║██╔════╝██╔══██╗                  │
- │    ███████║███████║██╔████╔██║█████╗  ██║  ██║                  │
- │    ██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║                  │
- │    ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝                  │
- │    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝                   │
- │                                                                 │
- │    ████████╗ █████╗ ███╗   ███╗███████╗██████╗                  │
- │    ╚══██╔══╝██╔══██╗████╗ ████║██╔════╝██╔══██╗                 │
- │       ██║   ███████║██╔████╔██║█████╗  ██████╔╝                 │
- │       ██║   ██╔══██║██║╚██╔╝██║██╔══╝  ██╔══██╗                 │
- │       ██║   ██║  ██║██║ ╚═╝ ██║███████╗██║  ██║                 │
- │       ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝                 │
- │                                                                 │
- │         software engineer  //  startup co-founder               │
- │                                                                 │
- └─────────────────────────────────────────────────────────────────┘
-```
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/portfolio-ahmedtamer--1.github.io-f5f5f5?style=flat-square&labelColor=000000)](https://ahmedtamer-1.github.io)
-[![LinkedIn](https://img.shields.io/badge/linkedin-ahmedtamer-f5f5f5?style=flat-square&labelColor=000000&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedtamer)
-[![Email](https://img.shields.io/badge/email-ahmed.omar.aser@gmail.com-f5f5f5?style=flat-square&labelColor=000000&logo=gmail&logoColor=white)](mailto:ahmed.omar.aser@gmail.com)
+<img src="./assets/header.svg" width="100%"/>
+
+[![portfolio](https://img.shields.io/badge/portfolio-ahmedtamer--1.github.io-f5f5f5?style=flat-square&labelColor=0d0d12)](https://ahmedtamer-1.github.io)
+[![linkedin](https://img.shields.io/badge/linkedin-ahmedtamer-f5f5f5?style=flat-square&labelColor=0d0d12&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedtamer)
+[![email](https://img.shields.io/badge/email-ahmed.omar.aser@gmail.com-f5f5f5?style=flat-square&labelColor=0d0d12&logo=gmail&logoColor=white)](mailto:ahmed.omar.aser@gmail.com)
 
 </div>
 
-```
- ════════════════════════════════════════════════════════════
-  > ABOUT
- ════════════════════════════════════════════════════════════
-```
+---
 
 Software Engineering student at **AASTMT** (GPA 3.4/4.0 · Class of 2027).
 I ship real products — not just homework assignments.
@@ -43,143 +19,111 @@ Technical Partner at **Adorna** (20% equity) — leading all pre-launch infrastr
 
 Beyond commerce I build multiplayer game systems, cross-platform mobile apps, full-stack web platforms, and systems-level tooling.
 
-```
- ┌─────────────────────────────────────────────────────┐
- │  "I don't just write code.                          │
- │   I build systems that run businesses."             │
- └─────────────────────────────────────────────────────┘
-```
+<div align="center">
+<img src="./assets/quote.svg" width="70%"/>
+</div>
 
-```
- ════════════════════════════════════════════════════════════
-  > TECH
- ════════════════════════════════════════════════════════════
-```
+---
 
 <div align="center">
 
 **LANGUAGES**
 
-![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![Liquid](https://img.shields.io/badge/Liquid-000000?style=flat-square&logo=shopify&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-000000?style=flat-square&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-0d0d12?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0d0d12?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-0d0d12?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0d0d12?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d0d12?style=flat-square&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0d0d12?style=flat-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d12?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d12?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0d0d12?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d0d12?style=flat-square&logo=python&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-0d0d12?style=flat-square&logo=shopify&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0d0d12?style=flat-square&logo=postgresql&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-0d0d12?style=flat-square&logo=gnubash&logoColor=white)
 
 **FRAMEWORKS + PLATFORMS**
 
-![Flutter](https://img.shields.io/badge/Flutter-1a1a1a?style=flat-square&logo=flutter&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-1a1a1a?style=flat-square&logo=unity&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-1a1a1a?style=flat-square&logo=shopify&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-1a1a1a?style=flat-square&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-1a1a1a?style=flat-square&logo=woocommerce&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=white)
-![Android](https://img.shields.io/badge/Android-1a1a1a?style=flat-square&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-131318?style=flat-square&logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-131318?style=flat-square&logo=unity&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-131318?style=flat-square&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-131318?style=flat-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-131318?style=flat-square&logo=woocommerce&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-131318?style=flat-square&logo=nodedotjs&logoColor=white)
+![Android](https://img.shields.io/badge/Android-131318?style=flat-square&logo=android&logoColor=white)
 
 **DATABASES + INFRA**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-333333?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-333333?style=flat-square&logo=firebase&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-333333?style=flat-square&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a20?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1a1a20?style=flat-square&logo=firebase&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-1a1a20?style=flat-square&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a20?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a1a20?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1a1a20?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1a1a20?style=flat-square&logo=linux&logoColor=white)
 
 **DESIGN + TOOLS**
 
-![Figma](https://img.shields.io/badge/Figma-4d4d4d?style=flat-square&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-4d4d4d?style=flat-square&logo=blender&logoColor=white)
-![CLO3D](https://img.shields.io/badge/CLO3D-4d4d4d?style=flat-square&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-4d4d4d?style=flat-square&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-4d4d4d?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-222228?style=flat-square&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-222228?style=flat-square&logo=blender&logoColor=white)
+![CLO3D](https://img.shields.io/badge/CLO3D-222228?style=flat-square&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-222228?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-222228?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
-```
- ════════════════════════════════════════════════════════════
-  > STATS
- ════════════════════════════════════════════════════════════
-```
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedtamer-1&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=888888&text_color=aaaaaa&ring_color=ffffff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedtamer-1&show_icons=true&hide_border=true&bg_color=00000000&title_color=e6edf3&icon_color=484f58&text_color=8b949e&ring_color=e6edf3" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedtamer-1&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&langs_count=8" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedtamer-1&layout=compact&hide_border=true&bg_color=00000000&title_color=e6edf3&text_color=8b949e&langs_count=8" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedtamer-1&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=aaaaaa&dates=666666" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedtamer-1&hide_border=true&background=00000000&ring=e6edf3&fire=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=8b949e&dates=484f58" height="170"/>
 </div>
 
-```
- ════════════════════════════════════════════════════════════
-  > WHAT I ACTUALLY DO
- ════════════════════════════════════════════════════════════
-```
+---
 
 ```
- FULL-STACK DEV        frontend → backend → database → deploy.
-                       I ship complete features, not just components.
+ FULL-STACK DEV ──────── frontend → backend → database → deploy.
+                         complete features, not just components.
 
- MOBILE ENGINEERING    cross-platform (Flutter) + native (Kotlin).
-                       clean architecture, real apps on real devices.
+ MOBILE ─────────────── cross-platform (Flutter) + native (Kotlin).
+                         clean architecture, real apps on real devices.
 
- GAME DEV              multiplayer systems. Mirror Networking + EOS.
-                       real-time sync, matchmaking, the hard stuff.
+ GAME DEV ───────────── multiplayer systems. Mirror Networking + EOS.
+                         real-time sync, matchmaking, the hard stuff.
 
- E-COMMERCE + GROWTH   built and scaled two live storefronts.
-                       Shopify → WordPress. pixels, media buying, fulfillment.
+ E-COMMERCE + GROWTH ── built and scaled two live storefronts.
+                         Shopify → WordPress. pixels, media buying, fulfillment.
 
- 3D + DESIGN           Blender, CLO3D, Figma.
-                       wireframes to 3D product mockups.
+ 3D + DESIGN ────────── Blender, CLO3D, Figma.
+                         wireframes to 3D product mockups.
 
- SYSTEMS               Unix internals, process management, shell scripting.
-                       the low-level things most people avoid.
+ SYSTEMS ────────────── Unix internals, process management, shell scripting.
 ```
 
-```
- ════════════════════════════════════════════════════════════
-  > LANGUAGES (the human kind)
- ════════════════════════════════════════════════════════════
-```
+---
 
-**Arabic** native // **English** C1 advanced // **Japanese** basic // **Korean** basic
+**Arabic** native · **English** C1 advanced · **Japanese** basic · **Korean** basic
 
-```
- ════════════════════════════════════════════════════════════
-  > LET'S TALK
- ════════════════════════════════════════════════════════════
-```
+---
 
-Open to interesting projects, collaborations, internships, or just good technical conversation.
+Open to projects, collaborations, internships, or good technical conversation.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/email_me-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.omar.aser@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedtamer)
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logoColor=white)](https://ahmedtamer-1.github.io)
+[![email me](https://img.shields.io/badge/email_me-0d0d12?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.omar.aser@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0d0d12?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedtamer)
+[![portfolio](https://img.shields.io/badge/portfolio-0d0d12?style=for-the-badge&logoColor=white)](https://ahmedtamer-1.github.io)
 
 </div>
 
 <div align="center">
 
-![views](https://komarev.com/ghpvc/?username=Ahmedtamer-1&style=flat-square&color=000000&label=views)
+![views](https://komarev.com/ghpvc/?username=Ahmedtamer-1&style=flat-square&color=0d0d12&label=views)
 
 </div>
-
-```
- ┌─────────────────────────────────────────────────────────────────┐
- │                                                                 │
- │   check the pinned repos below. that's where the real work is.  │
- │                                                                 │
- └─────────────────────────────────────────────────────────────────┘
-```
