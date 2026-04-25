@@ -2,9 +2,9 @@
 
 <img src="./assets/header.svg" width="100%"/>
 
-[![portfolio](https://img.shields.io/badge/portfolio-ahmedtamer--1.github.io-f5f5f5?style=flat-square&labelColor=0d0d12)](https://ahmedtamer-1.github.io)
-[![linkedin](https://img.shields.io/badge/linkedin-ahmedtamer-f5f5f5?style=flat-square&labelColor=0d0d12&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedtamer)
-[![email](https://img.shields.io/badge/email-ahmed.omar.aser@gmail.com-f5f5f5?style=flat-square&labelColor=0d0d12&logo=gmail&logoColor=white)](mailto:ahmed.omar.aser@gmail.com)
+[![portfolio](https://img.shields.io/badge/portfolio-ahmedtamer--1.github.io-f5f5f5?style=-square&labelColor=0d0d12)](https://ahmedtamer-1.github.io)
+[![linkedin](https://img.shields.io/badge/linkedin-ahmedtamer-f5f5f5?style=-square&labelColor=0d0d12&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedtamer)
+[![email](https://img.shields.io/badge/email-ahmed.omar.aser@gmail.com-f5f5f5?style=-square&labelColor=0d0d12&logo=gmail&logoColor=white)](mailto:ahmed.omar.aser@gmail.com)
 
 </div>
 
@@ -28,47 +28,47 @@ Beyond commerce I build multiplayer game systems, cross-platform mobile apps, fu
 
 **LANGUAGES**
 
-![C](https://img.shields.io/badge/C-0d0d12?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0d0d12?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-0d0d12?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-0d0d12?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0d0d12?style=flat-square&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0d0d12?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d12?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d12?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-0d0d12?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0d0d12?style=flat-square&logo=python&logoColor=white)
-![Liquid](https://img.shields.io/badge/Liquid-0d0d12?style=flat-square&logo=shopify&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0d0d12?style=flat-square&logo=postgresql&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-0d0d12?style=flat-square&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-0d0d12?style=-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0d0d12?style=-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-0d0d12?style=-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0d0d12?style=-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d0d12?style=-square&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0d0d12?style=-square&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d12?style=-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d12?style=-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0d0d12?style=-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d0d12?style=-square&logo=python&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-0d0d12?style=-square&logo=shopify&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0d0d12?style=-square&logo=postgresql&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-0d0d12?style=-square&logo=gnubash&logoColor=white)
 
 **FRAMEWORKS + PLATFORMS**
 
-![Flutter](https://img.shields.io/badge/Flutter-131318?style=flat-square&logo=flutter&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-131318?style=flat-square&logo=unity&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-131318?style=flat-square&logo=shopify&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-131318?style=flat-square&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-131318?style=flat-square&logo=woocommerce&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-131318?style=flat-square&logo=nodedotjs&logoColor=white)
-![Android](https://img.shields.io/badge/Android-131318?style=flat-square&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-131318?style=-square&logo=flutter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-131318?style=-square&logo=unity&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-131318?style=-square&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-131318?style=-square&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-131318?style=-square&logo=woocommerce&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-131318?style=-square&logo=nodedotjs&logoColor=white)
+![Android](https://img.shields.io/badge/Android-131318?style=-square&logo=android&logoColor=white)
 
 **DATABASES + INFRA**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a20?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-1a1a20?style=flat-square&logo=firebase&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-1a1a20?style=flat-square&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1a1a20?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1a1a20?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1a1a20?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1a1a20?style=flat-square&logo=linux&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a20?style=-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1a1a20?style=-square&logo=firebase&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-1a1a20?style=-square&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a20?style=-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a1a20?style=-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1a1a20?style=-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1a1a20?style=-square&logo=linux&logoColor=white)
 
 **DESIGN + TOOLS**
 
-![Figma](https://img.shields.io/badge/Figma-222228?style=flat-square&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-222228?style=flat-square&logo=blender&logoColor=white)
-![CLO3D](https://img.shields.io/badge/CLO3D-222228?style=flat-square&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-222228?style=flat-square&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-222228?style=flat-square&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-222228?style=-square&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-222228?style=-square&logo=blender&logoColor=white)
+![CLO3D](https://img.shields.io/badge/CLO3D-222228?style=-square&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-222228?style=-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-222228?style=-square&logo=vercel&logoColor=white)
 
 </div>
 
@@ -123,6 +123,6 @@ Open to projects, collaborations, internships, or good technical conversation.
 
 <div align="center">
 
-![views](https://komarev.com/ghpvc/?username=Ahmedtamer-1&style=flat-square&color=0d0d12&label=views)
+![views](https://komarev.com/ghpvc/?username=Ahmedtamer-1&style=-square&color=0d0d12&label=views)
 
 </div>
