@@ -13,7 +13,7 @@
 Software Engineering student at **AASTMT** (GPA 3.4/4.0 · Class of 2027).
 I ship real products — not just homework assignments.
 
-Co-founded **[Lume Egy](none)**(currently under maintanince) — a live e-commerce fashion brand where I own the entire technical stack: storefront development, paid-media pixel infrastructure, and fulfillment integrations. **EGP 49,000+ in gross sales** with a **2.4% peak conversion rate** within months of launch.
+Co-founded **[Lume Egy](lumeegy.com)**(currently under maintanince) — a live e-commerce fashion brand where I own the entire technical stack: storefront development, paid-media pixel infrastructure, and fulfillment integrations. **EGP 49,000+ in gross sales** with a **2.4% peak conversion rate** within months of launch.
 
 Technical Partner at **Adorna** (20% equity) — leading all pre-launch infrastructure, storefront architecture, and marketing pixel systems.
 
